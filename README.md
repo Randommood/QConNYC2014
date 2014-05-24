@@ -5,6 +5,8 @@ The Cloud has undoubtedly changed the way we think about computing, IT operation
 
 In this talk, I will introduce you to cloud computing’s paradigms and discuss their applications with practical examples from Engine Yard’s customers, peers, and partners. We will also cover antipatterns and myths. If you are curious about Cloud computing or want to improve your cloud strategy this talk is for you.
 
+Images used in this talk are listed in the [credits](credits.md). (mostly) Everything I read to prepare this talk is conveniently listed for you in the [references](references.md) in case you want more.
+
 # Tentative Agenda
 *Content Goal: 50 minutes*
 
