@@ -10,7 +10,3 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 # Tentative Agenda
 *Content Goal: 50 minutes*
 
-* Clustering + distributed systems as the new norm
-* API driven everything
-* Disposability of resources + benchmarking
-* How data and state is still challenging
