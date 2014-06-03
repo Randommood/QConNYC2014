@@ -10,3 +10,16 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 # Tentative Agenda
 *Content Goal: 50 minutes*
 
+* Disposable Resources
+  * Explanation
+    * Pre-cloud architectures
+    * Cattle vs Pets
+    * The Myth of Elasticity
+  * Our experience with this pattern (our journey, customer stories)
+    * Our story
+    * Everything breaks at some point
+  * Observed Challenges
+    * Unpredictability of costs is an issue for customers
+    * Importance of monitoring & benchmarking
+    * Capacity planning is still mysterious
+    * Still need to understand resource families to fit use case
