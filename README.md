@@ -27,7 +27,7 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 #### Harvesting Services
 * Explanation
   * Local resources vs Services
-  * Changes in app design to git a clouded world
+  * Changes in app design to get a clouded world
   * Consume services via APIs (SOA)
   * API design as a core competency
 * Our Experience
@@ -37,7 +37,7 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
   * Consumers of IaaS APIs
 * Observed Challenges
   * Monitoring, management, & analysis
-  * What is a green status?
+  * What does 'healthy' mean?
   * Operational experience becomes siloed
   * Service dependency and failure planning
   * Deprecating APIs
@@ -73,10 +73,10 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
   * We got continous integration
   * Continuous delivery is tricky
   * Evolution of our testing framework
-    * Model vs requests
+    * unit vs integration
 * Observed Challenges
   * Unification of testing? Rectification of choices in framework
-    * Rails: minitest vs RSpec
+    * Rails: test-unit vs RSpec
     * Chef: test kitchen, chefspec, bats, etc
   * Agile & Scrum still misunderstood
   * All planning tools suck
