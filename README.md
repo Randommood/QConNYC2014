@@ -10,7 +10,7 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 # Tentative Agenda
 *Content Goal: 50 minutes*
 
-#### Disposable Resources
+#### Reclaimable Resources
 * Explanation
   * Pre-cloud architectures
   * Cattle vs Pets
