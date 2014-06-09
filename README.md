@@ -18,6 +18,7 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 * Our experience with this pattern (our journey, customer stories)
   * Our story
   * Everything breaks at some point
+  * Everything is a recipe/template
 * Observed Challenges
   * Unpredictability of costs is an issue for customers
   * Importance of monitoring & benchmarking
@@ -27,12 +28,11 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 #### Harvesting Services
 * Explanation
   * Local resources vs Services
-  * Changes in app design to get a clouded world
+  * Changes in app design for a clouded world
   * Consume services via APIs (SOA)
-  * API design as a core competency
 * Our Experience
   * The monorail that grew
-  * New services
+  * Our new services
   * API mistakes
   * Consumers of IaaS APIs
 * Observed Challenges
@@ -40,7 +40,7 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
   * What does 'healthy' mean?
   * Operational experience becomes siloed
   * Service dependency and failure planning
-  * Deprecating APIs
+  * Importance of API design, maintenance & deprecation
   * The premature optimization dance
 
 #### Distributed Systems as the new norm
@@ -55,29 +55,25 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 * Observed Challenges
   * Clustered everything requires operational proficiency
   * Making sense of metrics & collection display
-  * Alerts & service coupling. What does it mean to be up?
+  * What does it mean to be up?
   * Theoretical awareness matters
-  * RCAs become tricky (what is the real cause of a problem)
   * Distributed tracing becomes necessary (zipkin, dapper)
   * Zookeeper becomes glue
 
 #### Continuous Everything
 * Explanation
   * The way we work has changed
-  * Velocity is a powerful advantage. Agility of delivery is critical
-  * Heightened emphasis on grokking good system behavior
   * Continuous integration
   * Continuous delivery
   * Importance of tests
 * Our Experience
   * We got continous integration
-  * Continuous delivery is tricky
   * Evolution of our testing framework
-    * unit vs integration
+  * Unit vs integration
 * Observed Challenges
   * Unification of testing? Rectification of choices in framework
     * Rails: test-unit vs RSpec
-    * Chef: test kitchen, chefspec, bats, etc
+    * Chef: test kitchen, chefspec, Serverspec, librarian, minitest-chef, sugar, bats, etc
   * Agile & Scrum still misunderstood
   * All planning tools suck
   * Failure to understand your business goals is still where everything breaks
