@@ -22,7 +22,6 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 * Observed Challenges
   * Unpredictability of costs is an issue for customers
   * Importance of monitoring & benchmarking
-  * Capacity planning is still mysterious
   * Still need to understand resource families to fit use case
 
 #### Harvesting Services
@@ -58,22 +57,18 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
   * What does it mean to be up?
   * Theoretical awareness matters
   * Distributed tracing becomes necessary (zipkin, dapper)
-  * Zookeeper becomes glue
 
 #### Continuous Everything
 * Explanation
   * The way we work has changed
-  * Continuous integration
-  * Continuous delivery
+    ** Continuous integration
+    ** Continuous delivery
   * Importance of tests
 * Our Experience
-  * We got continous integration
+  * Our continous integration
   * Evolution of our testing framework
-  * Unit vs integration
 * Observed Challenges
   * Unification of testing? Rectification of choices in framework
     * Rails: test-unit vs RSpec
     * Chef: test kitchen, chefspec, Serverspec, librarian, minitest-chef, sugar, bats, etc
-  * Agile & Scrum still misunderstood
   * All planning tools suck
-  * Failure to understand your business goals is still where everything breaks
