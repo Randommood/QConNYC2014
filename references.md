@@ -8,7 +8,10 @@
 * [Zookeeper for the skeptical architect-RICON 2013](https://www.youtube.com/watch?v=j4uwKP7WJFk)
 * [NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](http://martinfowler.com/books/nosql.html)
 * [Zipkin](http://twitter.github.io/zipkin/architecture.html)
-
+* [The Jepsen series](http://aphyr.com/tags/jepsen)
+* [The Reactive Manifesto](https://github.com/aphyr/reactivemanifesto)
+* [Distributed Computing](http://en.wikipedia.org/wiki/Distributed_computing)
+* [Hashicorp Serf](http://www.serfdom.io/)
 
 ## DevOps
 * [Enterprise Devops Adoption by Gene Kim](http://blogs.wsj.com/cio/2014/05/22/enterprise-devops-adoption-isnt-mandatory-but-neither-is-survival/tab/print/)
@@ -22,11 +25,10 @@
 * [Little Known Apache Mesos Project Helps Mesosphere Raise $10M From Andreessen Horowitz](http://thenewstack.io/little-known-apache-mesos-project-helps-mesosphere-raise-10m-from-andreessen/)
 * [Apache Mesos](http://mesos.apache.org/)
 * [Google embraces docker](http://www.wired.com/2014/06/eric-brewer-google-docker/)
-
+* [The Twitter Stack](https://blog.twitter.com/2013/braindump)
+* [QCon New York - Migrating to Cloud Native with Microservices](http://www.slideshare.net/adriancockcroft/qcon-new-york-speed-and-scale)
 
 
 ## Benchmarking & Scaling
 [6 things about scaling](http://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
-
-
 
