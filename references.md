@@ -17,6 +17,7 @@
 * [Enterprise Devops Adoption by Gene Kim](http://blogs.wsj.com/cio/2014/05/22/enterprise-devops-adoption-isnt-mandatory-but-neither-is-survival/tab/print/)
 * [Thoughtworks Continuous Delivery](http://www.thoughtworks.com/continuous-delivery)
 * [Continuous Delivery](http://en.wikipedia.org/wiki/Continuous_delivery)
+* [The five Whys for startups](http://blogs.hbr.org/2010/04/the-five-whys-for-startups/)
 
 ## Testing
 * [TDD, Straw Men, and Rhetoric](https://www.destroyallsoftware.com/blog/2014/tdd-straw-men-and-rhetoric)
@@ -27,6 +28,7 @@
 * [Google embraces docker](http://www.wired.com/2014/06/eric-brewer-google-docker/)
 * [The Twitter Stack](https://blog.twitter.com/2013/braindump)
 * [QCon New York - Migrating to Cloud Native with Microservices](http://www.slideshare.net/adriancockcroft/qcon-new-york-speed-and-scale)
+* [The network is reliable](http://aphyr.com/posts/288-the-network-is-reliable)
 
 
 ## Benchmarking & Scaling
