@@ -5,7 +5,7 @@ The Cloud has undoubtedly changed the way we think about computing, IT operation
 
 In this talk, I will introduce you to cloud computing’s paradigms and discuss their applications with practical examples from Engine Yard’s customers, peers, and partners. We will also cover antipatterns and myths. If you are curious about Cloud computing or want to improve your cloud strategy this talk is for you.
 
-*Slides here for: *[Cloud Patterns](https://speakerdeck.com/randommood/computational-patterns-of-the-cloud-qccon-nyc-2014)
+*Slides here for:* [Cloud Patterns](https://speakerdeck.com/randommood/computational-patterns-of-the-cloud-qccon-nyc-2014)
 
 Images used in this talk are listed in the [credits](credits.md). (mostly) Everything I read to prepare this talk is conveniently listed for you in the [references](references.md) in case you want more.
 
@@ -63,8 +63,8 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
 #### Continuous Everything
 * Explanation
   * The way we work has changed
-    ** Continuous integration
-    ** Continuous delivery
+    * Continuous integration
+    * Continuous delivery
   * Importance of tests
 * Our Experience
   * Our continous integration
@@ -73,4 +73,4 @@ Images used in this talk are listed in the [credits](credits.md). (mostly) Every
   * Unification of testing? Rectification of choices in framework
     * Rails: test-unit vs RSpec
     * Chef: test kitchen, chefspec, Serverspec, librarian, minitest-chef, sugar, bats, etc
-  * All planning tools suck
+* All planning tools suck
