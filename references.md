@@ -1,8 +1,8 @@
 # References
 
 ## Distributed Systems
-* [Calvin: Fast Distributed Transactions for Partitioned Database Systems](Calvin: Fast Distributed Transactions for Partitioned Database Systems), SIGMOD 2012 by Alexander Thomson, Thaddeus Diamond, Shu-Chun Weng, Kun Ren, Philip Shao, and Daniel J. Abadi.
 * [Distributed Systems and the End of the API](http://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/)
+* [Calvin: Fast Distributed Transactions for Partitioned Database Systems](Calvin: Fast Distributed Transactions for Partitioned Database Systems), SIGMOD 2012 by Alexander Thomson, Thaddeus Diamond, Shu-Chun Weng, Kun Ren, Philip Shao, and Daniel J. Abadi.
 * [The CAP FAQ](http://henryr.github.io/cap-faq/)
 * [PolyglotConf 2014: Notes on Introduction to Distributed Systems](http://blog.roman-gonzalez.ca/post/87019690687/polyglotconf-2014-notes-on-introduction-to-distributed)
 * [Zookeeper for the skeptical architect-RICON 2013](https://www.youtube.com/watch?v=j4uwKP7WJFk)
@@ -30,5 +30,6 @@
 
 
 ## Benchmarking & Scaling
-[6 things about scaling](http://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
+* [Create benchmarks that have value](http://kellabyte.com/2014/02/12/create-benchmarks-and-results-that-have-value/)
+* [6 things about scaling](http://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
 
